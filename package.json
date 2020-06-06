@@ -1,0 +1,14 @@
+{
+  "name": "correiosGraphqlAPI",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "repository": "https://github.com/hicolazu/correiosGraphqlAPI.git",
+  "author": "Henrico <henrico.lazuroz2@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
+}
